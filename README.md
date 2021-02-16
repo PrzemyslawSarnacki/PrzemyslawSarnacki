@@ -12,7 +12,7 @@ My name is Przemyslaw Sarnacki and I'm a software engineer. I'm from Poland and 
 
 
 [![Przeyslaw's github stats](https://github-readme-stats.vercel.app/api?username=PrzemyslawSarnacki&theme=light&show_icons=true&line_height=27)](https://github.com/PrzemyslawSarnacki/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrzemyslawSarnacki&theme=light&hide=html,css)](https://github.com/PrzemyslawSarnacki/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrzemyslawSarnacki&theme=light&hide=html,css,jupyter-notebook)](https://github.com/PrzemyslawSarnacki/github-readme-stats)
 
 <!--
 **PrzemyslawSarnacki/PrzemyslawSarnacki/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
